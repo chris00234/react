@@ -1,0 +1,26 @@
+[
+    {
+        "title": "FaceMesh/Gesture Capture Control",
+        "imageSrc": "projects/mediapipe_icon.png",
+        "description": "Using mediapipe to detect face landmarks, pose gesture captures, and hand gesture captures to control volume.",
+        "skills": ["Python", "OpenCV", "Mediapipe"],
+        "demo": "https://github.com/chris00234/mediapipe_modules",
+        "source": "https://github.com/chris00234/mediapipe_modules"
+    },
+    {
+        "title": "Face expression recognition",
+        "imageSrc": "projects/face_recognition.png",
+        "description": "Recognize facial expressions using OpenCV and Keras with a Convolutional Neural Network.",
+        "skills": ["Tensorflow", "Keras", "OpenCV", "Python"],
+        "demo": "https://github.com/chris00234/facial_expression_-cnn-",
+        "source": "https://github.com/chris00234/facial_expression_-cnn-"
+    },
+    {
+        "title": "Movie Search Engine",
+        "imageSrc": "projects/fablix.png",
+        "description": "A movie search engine that allows users to search for movies, actors, and genres. Employees can also add, delete, and update movies.",
+        "skills": ["Java", "MySQL", "HTML", "JavaScript"],
+        "demo": "https://github.com/chris00234/Fablix",
+        "source": "https://github.com/chris00234/Fablix"
+    }
+]

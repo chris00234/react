@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+    },
+    {
+        "title": "C",
+        "imageSrc": "skills/c.png"
+    },
+    {
+        "title": "C++",
+        "imageSrc": "skills/c++.png"
+    },
+    {
+        "title": "Javascript",
+        "imageSrc": "skills/javascript.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/java.png"
+    },
+    {
+        "title": "SQL",
+        "imageSrc": "skills/sql.png"
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "Git",
+        "imageSrc": "skills/git.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Pytorch",
+        "imageSrc": "skills/pytorch.png"
+    },
+    {
+        "title": "Bash",
+        "imageSrc": "skills/bash.png"
+    },
+    {
+        "title": "Docker",
+        "imageSrc": "skills/docker.png"
+    }
+
+]

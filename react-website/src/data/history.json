@@ -1,0 +1,19 @@
+[
+    {
+        "role": "Research Assistant",
+        "organization": "Molloi Lab - University of California, Irvine",
+        "starDate": "February 2024",
+        "endDate": "Present",
+        "experiences": ["Developed an optimizer for bilateral filter parameters with gird search and particle swarms optimizer.", "Implemented Unet model for heart chamber segmentation in CT/MRI images.", "Utilized HPC to train deep learning models for medical image analysis."],
+        "imageSrc": "history/molloi.png"
+    },
+    {
+        "role": "Undergraduate Lab Tutor",
+        "organization": "University of California, Irvine",
+        "starDate": "March 2024",
+        "endDate": "June 2024",
+        "experiences": ["Assisted students with lab assignments and projects.", "Held office hours to help students with course material.", "Graded assignments and exams."],
+        "imageSrc": "history/uci.png"
+    }
+
+]
